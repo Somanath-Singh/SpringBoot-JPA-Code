@@ -1,0 +1,25 @@
+per:
+  info:
+    favColors: red,green,blue
+    id-Details:
+      voterId: 1515151212548
+    idDetails:
+      aadharNo: 966167218377
+      panNo: HBDGBFBH123
+    jobInfo:
+      company: HCL
+      deptNo: 6678
+      desg: CLERK
+      salary: 20000
+    phone-No:
+    - '1234417895 '
+    phoneNo:
+    - 1234567895
+    - 1234567965
+    - 1234564595
+    pid: 1001
+    pname: raja
+    studies:
+    - 10+2-MPC
+    - B.sc
+    - MCA
